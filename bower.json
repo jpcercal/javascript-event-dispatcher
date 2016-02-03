@@ -1,0 +1,28 @@
+{
+  "name": "event-dispatcher-js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/cekurte/event-dispatcher-js",
+  "authors": [
+    "João Paulo Cercal <jpcercal@gmail.com>"
+  ],
+  "description": "A cross browser Event Dispatcher written in native Javascript.",
+  "keywords": [
+    "event",
+    "dispatch",
+    "dispatcher",
+    "trigger",
+    "fire",
+    "cross",
+    "browser",
+    "api"
+  ],
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

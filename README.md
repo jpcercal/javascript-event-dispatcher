@@ -7,7 +7,7 @@
 - The package is available on [Bower](http://bower.io/).
 
 ```shell
-bower install event-dispatcher-js --save
+bower install javascript-event-dispatcher --save
 ```
 
 **If you liked of this library, give me a *star =)*.**

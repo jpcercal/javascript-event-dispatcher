@@ -1,5 +1,8 @@
 # EventDispatcher
 
+[![Bower](https://img.shields.io/bower/v/cekurte-event-dispatcher.svg?style=square)](https://github.com/cekurte/javascript-event-dispatcher)
+[![Bower](https://img.shields.io/bower/l/cekurte-event-dispatcher.svg?style=square)](https://github.com/cekurte/javascript-event-dispatcher)
+
 - A cross browser Event Dispatcher written in native Javascript **contribute with this project**!
 
 ## Installation

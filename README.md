@@ -1,5 +1,7 @@
 # EventDispatcher
 
+[![Build Status](https://travis-ci.org/jpcercal/javascript-event-dispatcher.svg?branch=master)](https://travis-ci.org/jpcercal/javascript-event-dispatcher)
+[![Code Climate](https://codeclimate.com/github/jpcercal/javascript-event-dispatcher/badges/gpa.svg)](https://codeclimate.com/github/jpcercal/javascript-event-dispatcher)
 [![Bower](https://img.shields.io/bower/v/javascript-event-dispatcher.svg?style=square)](https://github.com/jpcercal/javascript-event-dispatcher)
 [![Bower](https://img.shields.io/bower/l/javascript-event-dispatcher.svg?style=square)](https://github.com/jpcercal/javascript-event-dispatcher)
 

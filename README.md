@@ -1,7 +1,7 @@
 # EventDispatcher
 
-[![Bower](https://img.shields.io/bower/v/cekurte-event-dispatcher.svg?style=square)](https://github.com/cekurte/javascript-event-dispatcher)
-[![Bower](https://img.shields.io/bower/l/cekurte-event-dispatcher.svg?style=square)](https://github.com/cekurte/javascript-event-dispatcher)
+[![Bower](https://img.shields.io/bower/v/javascript-event-dispatcher.svg?style=square)](https://github.com/jpcercal/javascript-event-dispatcher)
+[![Bower](https://img.shields.io/bower/l/javascript-event-dispatcher.svg?style=square)](https://github.com/jpcercal/javascript-event-dispatcher)
 
 - A cross browser Event Dispatcher written in native Javascript **contribute with this project**!
 
@@ -10,7 +10,7 @@
 - The package is available on [Bower](http://bower.io/).
 
 ```shell
-bower install cekurte-event-dispatcher --save
+bower install javascript-event-dispatcher --save
 ```
 
 **If you liked of this library, give me a *star =)*.**

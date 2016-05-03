@@ -1,7 +1,7 @@
 {
-  "name": "cekurte-event-dispatcher",
+  "name": "javascript-event-dispatcher",
   "version": "1.0.1",
-  "homepage": "https://github.com/cekurte/javascript-event-dispatcher",
+  "homepage": "https://github.com/jpcercal/javascript-event-dispatcher",
   "authors": [
     "João Paulo Cercal <jpcercal@gmail.com>"
   ],
